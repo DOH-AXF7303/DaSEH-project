@@ -3,6 +3,7 @@ title: "DaSEH Project"
 output: html_notebook
 ---
 
+#This is my class project! 
 
 ```{r}
 plot(cars)
